@@ -12,7 +12,7 @@ public class App {
 
         while(numero >= 0) {
             soma += numero;
-            System.out.println("Digite mais um n5umero: ");
+            System.out.println("Digite mais um numero: ");
             numero = scanner.nextInt();
         }
 
